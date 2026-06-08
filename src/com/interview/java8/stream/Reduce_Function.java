@@ -17,7 +17,6 @@ public class Reduce_Function {
 	 
 	public static void main(String[] args) {
 		List<Integer> numbers = Arrays.asList(10, 25, 7, 40, 15);
-
 		Optional<Integer> max = numbers.stream()
 		                               .reduce(Integer::max);
 
