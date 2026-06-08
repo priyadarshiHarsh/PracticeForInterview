@@ -15,7 +15,6 @@ import java.util.Optional;
  */
 public class Reduce_Function {
 	 
-
 	public static void main(String[] args) {
 		List<Integer> numbers = Arrays.asList(10, 25, 7, 40, 15);
 
